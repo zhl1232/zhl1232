@@ -1,7 +1,7 @@
 ### 路漫漫其修道远  ![Wechat Badge](https://img.shields.io/badge/-zhl1232-7BB32E?style=flat-square&logo=wechat&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhl1232&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif]
+![https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif]
 <!--
 **zhl1232/zhl1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

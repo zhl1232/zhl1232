@@ -1,6 +1,7 @@
 ### 路漫漫其修远兮  ![Wechat Badge](https://img.shields.io/badge/-zhl1232-7BB32E?style=flat-square&logo=wechat&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api?username=zhl1232&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhl1232)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif?raw=true" height="192" width="330">
 
 <!--

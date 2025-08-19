@@ -3,9 +3,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=zhl1232&show_icons=true&theme=radical)
 <img src="https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif?raw=true" height="192" width="330">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
-  <img alt="github breakout" src="images/breakout-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="breakout-light.svg">
+  <img alt="github breakout" src="breakout-light.svg">
 </picture>
 <!--
 **zhl1232/zhl1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

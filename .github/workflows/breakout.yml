@@ -7,12 +7,24 @@ on:
 
 jobs:
   build:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - uses: cyprieng/github-breakout@main
+      - name: Generate breakout SVGs
+        uses: cyprieng/github-breakout@main
         with:
           github_username: ${{ github.repository_owner }}
+
+      - name: Move and rename the files
+        run: |
+          mv output/light.svg breakout-light.svg
+          mv output/dark.svg breakout-dark.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "github-actions[bot]"
+          git add breakout-light.svg breakout-dark.svg
+          git commit -m "update breakout SVGs" || echo "No changes to commit"
+          git push

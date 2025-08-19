@@ -6,7 +6,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=zhl1232&show_icons=true&theme=radical" alt="Arron's GitHub Stats" style="height: 195px; object-fit: cover;" />
     </td>
     <td valign="middle">
-      <img src="https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif?raw=true" alt="Coding Cat" style="height: 193px; object-fit: cover; border-radius: 5px;" />
+      <img src="https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif?raw=true" alt="Coding Cat" style="height: 187px;  border-radius: 4px; object-fit: cover;" />
     </td>
   </tr>
 </table>

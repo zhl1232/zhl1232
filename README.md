@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=zhl1232&show_icons=true&theme=radical" alt="Arron's GitHub Stats" style="height: 200px; object-fit: cover;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=zhl1232&show_icons=true&theme=radical" alt="Arron's GitHub Stats" style="height: 195px; object-fit: cover;" />
     </td>
     <td valign="middle">
-      <img src="https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif?raw=true" alt="Coding Cat" style="height: 190px; object-fit: cover;" />
+      <img src="https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif?raw=true" alt="Coding Cat" style="height: 195px; object-fit: cover;" />
     </td>
   </tr>
 </table>

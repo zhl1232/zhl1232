@@ -2,10 +2,10 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=zhl1232&show_icons=true&theme=radical" alt="Arron's GitHub Stats" />
     </td>
-    <td valign="top">
+    <td valign="middle">
       <img src="https://github.com/zhl1232/zhl1232/blob/main/CodingCat.gif?raw=true" height="192" width="330" alt="Coding Cat" />
     </td>
   </tr>
